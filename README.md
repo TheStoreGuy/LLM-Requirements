@@ -1,5 +1,5 @@
 # LLM-Requirements
-This is a repo that is linked to LLM-charts and other LLM related repos
+## "This repo is linked to LLM-charts and various other LLM-related repositories."
 
 
 
