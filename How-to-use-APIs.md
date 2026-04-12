@@ -1,0 +1,2 @@
+# How to Use API Keys
+## To use an API key, first create one by visiting the official website of the AI provider you intend to use. Follow their specific guide to generate and copy your key. Once you have it, you can either build your own interface using HTML/code or use a pre-made website or program to host the model. Simply insert your API key, select your desired model, and ensure you have loaded enough credits into your account to begin chatting.
