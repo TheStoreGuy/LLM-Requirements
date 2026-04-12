@@ -4,4 +4,4 @@ This is a repo that is linked to LLM-charts and other LLM related repos
 
 
 # Requirements 
-## The requirements to run the llms I've tested are mid-range and beginner friendly only requiring 12GB of VRAM and 16GB of regular ram and other models that aren't tested are not as expensive as you think some of these models like 671B model on open router can be ran foe pennies per 1M tokens witch is very nice and with huggingfaces zerogpus for only 9USD a month can allow you to run/train models you couldn't
+## "The requirements to run the LLMs I've tested are actually mid-range and beginner-friendly, requiring only 12GB of VRAM and 16GB of regular RAM. Other models I haven't tested are also far less expensive than you’d think; for instance, a 671B model on OpenRouter can be run for pennies per 1M tokens, which is incredible. Additionally, Hugging Face’s ZeroGPU subscription for only $9 USD a month allows you to run and train models that your local hardware otherwise couldn't handle."
